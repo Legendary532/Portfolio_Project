@@ -1,3 +1,5 @@
+const mixer = mixitup('.portfolio-gallery');
+
 // Active menu on scroll
 const menuLi = document.querySelectorAll('header ul li a');
 const section = document.querySelectorAll('section');
