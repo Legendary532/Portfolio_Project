@@ -995,8 +995,10 @@ footer a i {
     .info-about3 p {
         display: none;
     }
-
-    .img-about span {
+    
+    .info-about1 span,
+    .info-about2 span,
+    .info-about3 span {
         display: none;
     }
 
@@ -1116,11 +1118,12 @@ footer a i {
     .info-about3 p {
         display: none;
     }
-
-    .img-about span {
+    
+    .info-about1 span,
+    .info-about2 span,
+    .info-about3 span {
         display: none;
     }
-    
 
     .img-about span {
         color: var(--hover--color);
@@ -1227,8 +1230,11 @@ footer a i {
         display: none;
     }
 
-    .img-about span {
+    .info-about1 span,
+    .info-about2 span,
+    .info-about3 span {
         display: none;
+    }
     
     .about .img-about img,
     .img-about img {
