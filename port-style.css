@@ -1252,7 +1252,9 @@ footer a i {
     }
 
     .btn-box .about {
-        left: 25%;
+        display: flex;
+        text-align: center;
+        align-item: center;
     }
 
     .service-box p {
@@ -1367,7 +1369,9 @@ footer a i {
     }
 
     .btn-box .contact {
-        left: 30%;
+        text-align: center;
+        align-item: center;
+        display: flex;
     }
 
     footer p {
