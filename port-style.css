@@ -1270,7 +1270,7 @@ footer a i {
 
     .info-about1 {
         left: 38%;
-        top: 8%;
+        top: 5%;
     }
 
     .info-about2 {
@@ -1279,8 +1279,8 @@ footer a i {
     }
 
     .info-about3 {
-        top: 14%;
-        left: 60%;
+        top: 4%;
+        left: 50%;
         transform: translateX(-50%);
     }
 
