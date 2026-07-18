@@ -1128,36 +1128,6 @@ footer a i {
         float: none;
     }
 
-    .info-about1,
-    .info-about2,
-    .info-about3 {
-        width: 35px;
-        height: 35px;
-        font-size: .4rem;
-    }
-
-    .info-about1 {
-        left: 38%;
-        top: 12%;
-    }
-
-    .info-about2 {
-        left: 55%;
-        top: 15px;
-    }
-
-    .info-about3 {
-        top: 14%;
-        left: 58%;
-        transform: translateX(-50%);
-    }
-
-    .info-about1 p,
-    .info-about2 p,
-    .info-about3 p {
-        font-size: 4px;
-    }
-
     .img-about span {
         color: var(--hover--color);
         font-size: 6px;
@@ -1259,50 +1229,7 @@ footer a i {
         margin: auto;
         float: none;
     }
-
-    .info-about1,
-    .info-about2,
-    .info-about3 {
-        width: 23px;
-        height: 23px;
-        font-size: .1rem;
-    }
-
-    .info-about1 {
-        left: 38%;
-        top: 5%;
-    }
-
-    .info-about2 {
-        left: 55%;
-        top: 2%;
-    }
-
-    .info-about1 p {
-        font-size: 2px;
-        top: -4px;
-        left: -4px;
-    }
-
-    .info-about2 p {
-        font-size: 2px;
-        top: -4px;
-        left: -3px;
-    }
-
-    .info-about3 p {
-        font-size: 2px;
-        top: -4px;
-        left: -4px;
-    }
-
-    .info-about1 span,
-    .info-about2 span,
-    .info-about3 span {
-        top: -6px;
-        left: -2px;
-    }
-
+    
     .img-about span {
         color: var(--hover--color);
         font-size: 6px;
