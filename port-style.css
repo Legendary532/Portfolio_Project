@@ -988,38 +988,16 @@ footer a i {
     .info-about1,
     .info-about2,
     .info-about3 {
-        width: 35px;
-        height: 35px;
-        font-size: .4rem;
+        display: none;
     }
-
-    .info-about1 {
-        left: 39%;
-        top: 15%;
-    }
-
-    .info-about2 {
-        left: 56%;
-        top: 26px;
-    }
-
-    .info-about3 {
-        top: 28%;
-        left: 58%;
-        transform: translateX(-50%);
-    }
-
     .info-about1 p,
     .info-about2 p,
     .info-about3 p {
-        font-size: 4px;
+        display: none;
     }
 
     .img-about span {
-        color: var(--hover--color);
-        font-size: 6px;
-        font-weight: 300;
-        margin: auto;
+        display: none;
     }
 
     .skill-main {
@@ -1127,6 +1105,22 @@ footer a i {
         margin: auto;
         float: none;
     }
+    
+    .info-about1,
+    .info-about2,
+    .info-about3 {
+        display: none;
+    }
+    .info-about1 p,
+    .info-about2 p,
+    .info-about3 p {
+        display: none;
+    }
+
+    .img-about span {
+        display: none;
+    }
+    
 
     .img-about span {
         color: var(--hover--color);
@@ -1221,7 +1215,21 @@ footer a i {
         text-align: center;
         gap: 3rem;
     }
+    
+    .info-about1,
+    .info-about2,
+    .info-about3 {
+        display: none;
+    }
+    .info-about1 p,
+    .info-about2 p,
+    .info-about3 p {
+        display: none;
+    }
 
+    .img-about span {
+        display: none;
+    
     .about .img-about img,
     .img-about img {
         width: 220px;
