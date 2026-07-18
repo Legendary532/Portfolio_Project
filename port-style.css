@@ -396,7 +396,7 @@ section {
 .info-about2 span,
 .info-about3 span {
     position: relative;
-    left: -10px; 
+    left: -10px;
 }
 
 .info-about1 {
@@ -792,10 +792,10 @@ section {
 }
 
 .port-content p {
-        font-size: 1rem;
-        color: #fff;
-        margin: 5px 0 15px 0;
-    }
+    font-size: 1rem;
+    color: #fff;
+    margin: 5px 0 15px 0;
+}
 
 .port-content a {
     background: #fff;
@@ -1226,6 +1226,10 @@ footer a i {
         font-size: 1rem;
     }
 
+    .email-info span {
+        margin-left: 20%;
+    }
+
     .btn-box {
         display: inline-flex;
         justify-content: space-between;
@@ -1259,31 +1263,50 @@ footer a i {
     .info-about1,
     .info-about2,
     .info-about3 {
-        width: 33px;
-        height: 33px;
-        font-size: .4rem;
+        width: 23px;
+        height: 23px;
+        font-size: .1rem;
     }
 
     .info-about1 {
-        left: 36%;
-        top: 5%;
+        left: 38%;
+        top: 8%;
     }
 
     .info-about2 {
         left: 55%;
-        top: 0;
+        top: 2%;
     }
 
     .info-about3 {
-        top: 60px;
+        top: 14%;
         left: 60%;
         transform: translateX(-50%);
     }
 
-    .info-about1 p,
-    .info-about2 p,
+    .info-about1 p {
+        font-size: 2px;
+        top: -4px;
+        left: -4px;
+    }
+
+    .info-about2 p {
+        font-size: 2px;
+        top: -4px;
+        left: -3px;
+    }
+
     .info-about3 p {
-        font-size: 4px;
+        font-size: 2px;
+        top: -4px;
+        left: -4px;
+    }
+
+    .info-about1 span,
+    .info-about2 span,
+    .info-about3 span {
+        top: -6px;
+        left: -2px;
     }
 
     .img-about span {
@@ -1291,6 +1314,10 @@ footer a i {
         font-size: 6px;
         font-weight: 300;
         margin: auto;
+    }
+
+    .btn-box .about {
+        left: 25%;
     }
 
     .service-box p {
@@ -1402,6 +1429,10 @@ footer a i {
         font-size: 1.4rem;
         background: var(--clr-blue);
         color: var(--hover--color);
+    }
+
+    .btn-box .contact {
+        left: 30%;
     }
 
     footer p {
